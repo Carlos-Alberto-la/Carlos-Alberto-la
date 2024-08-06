@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">🎓 Estudante de TI no IFBA<br>💻 Apaixonado por programação e desenvolvimento de software</p>
+<p align="left">🎓 Estudante de TI no IFBA<br>💻 Entusiasta de programação e desenvolvimento de software</p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Estudando...</h2>
 
 ###
 
